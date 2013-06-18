@@ -1,3 +1,4 @@
+// this goes in /models/myapp
 <?php
 require_once("./AbstractModel.php");
 Class Contact extends AbstractModel
